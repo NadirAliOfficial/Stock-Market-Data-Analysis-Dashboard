@@ -1,11 +1,3 @@
-### **Project Name:** `Stock Market Data Analysis Dashboard`
-
----
-
-### **📜 README.md**
-Here’s a `README.md` file for your GitHub repository:
-
-```md
 # 📈 Stock Market Data Analysis Dashboard
 
 ## 🔥 Overview
